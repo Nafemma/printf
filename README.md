@@ -8,4 +8,4 @@ In other words, the function receives a format (*const char* **format*) and a li
 
 ## Contributors  
  
-[@Nafemma -Github(https://github.com/Nafemma) - [@Revelation Mudoti - Github]](https://github.com/Revelation-coder)
+[@Nafemma -Github(https://github.com/Nafemma)] - [@Revelation Mudoti - Github]](https://github.com/Revelation-coder)]
